@@ -1,0 +1,196 @@
+.i1 {
+    padding: 20px;
+    width: 170Px;
+    margin-left: 210px;
+}
+
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+td {
+    height: 55px;
+    border: 1px solid rgb(226, 225, 225);
+    
+}
+
+td:hover {
+    color: black;
+    cursor: pointer;
+  }
+
+a {
+    padding: 10px;
+    padding-left: 25px;
+    padding-right: 25px;
+    text-align: center;
+    text-decoration: none;
+}
+
+a1:hover{
+    color: #000000;
+}
+
+.deal{
+    line-height: 20px;
+    text-align: center;
+    background-image: url(dealback.jpg);
+    background-size: auto 100%;
+    color: rgb(255, 255, 255);
+    padding: 16px 4px;
+    font-size: 0.7rem;
+}
+
+@media (min-width: 300px){
+.deal{
+    font-size: 1.07rem;
+}}
+
+h1 {
+    padding-top: 25px;
+    text-align: center;
+    font-size: 30px;
+}
+
+p {
+    text-align: center;
+
+}
+
+.c {
+    height: fit-content;
+}
+
+.card {
+    background: #fff;
+    cursor: pointer;
+    
+}
+
+.card:hover {
+    box-shadow: 0 10px 10px rgba(87, 86, 86);
+}
+
+#x1 {
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.btn {
+    background-color: rgb(0, 134, 16);
+    width: 95%;
+    margin: 2.5%;
+    padding: 20px;
+}
+
+footer {
+    background-color: #000000;
+    color: aliceblue;
+    padding: 40px;
+    font-size: 14px;
+    padding-bottom: 1px;
+}
+
+.text-center {
+    font-size: 12px;
+    margin: 5px;
+    padding-bottom: 0%;
+}
+
+
+f {
+    margin-bottom: 0%;
+}
+
+.container h6{
+    padding-left: 8%;
+}
+
+a{
+    color: aliceblue;
+    font-size: 12px;
+}
+
+a:hover {
+        color: rgb(255, 255, 255);
+      }
+
+.container{
+    padding-left: 100px;
+}
+
+.container-fluid {
+    background-image: url('task6\ bg.jpg');
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.symbol {
+    margin-left: 800px;
+    margin-top: -60px;
+}
+
+h6 {
+    font-size: 17px;
+}
+
+.socialimg{
+    width: 20px;
+}
+
+ul, li {
+    list-style-type: none;
+}
+
+.heading-4{
+    width: 50%;
+    margin-left: 100px;
+    margin-top: -80px;
+}
+
+.unordlist-1{
+    display: flex;
+    float: left 10px;
+}
+
+.download-img {
+    height: 47px;
+    width: 141px;
+}
+
+.download-img1 {
+    height: 45px;
+    width: 140px;
+
+}
+
+.download-link {
+    text-align: center;
+    cursor: pointer;
+}
+
+.feedback {
+    margin-top: 30px;
+    padding-left: 1px;
+}
+
+.feedback h6{
+    padding: 17px;
+}
+
+.butt1 {
+    border-radius: 8px;
+    padding: 5px 10px;
+}
+
+.butt1:hover {
+    background-color: rgb(197, 193, 193);
+}
+
+#copy{
+   margin: 15px;
+   color: rgb(150, 150, 150);
+   font-size: 12px;
+}
